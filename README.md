@@ -1,6 +1,6 @@
 # Bannedcho
-Custom osu! Server
+Кастомный osu! сервер!
 
-This Code is based on the <a href="https://github.com/osuripple/ripple/tree/master" target="_blank">Ripple</a> code!
+Основано на коде <a href="https://github.com/osuripple/ripple/tree/master" target="_blank">Риппла</a>!
 
-## <a href="https://github.com/RlSEN/bannedcho/wiki/set-up">Setting up<a>
+## <a href="https://github.com/osusanraizu/bannedcho/wiki/set-up">Сетап<a>
